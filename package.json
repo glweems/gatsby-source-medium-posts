@@ -4,6 +4,8 @@
   "repository": "github:glweems/gatsby-source-medium-posts",
   "keywords": [
     "gatsbyjs",
+    "gatsby",
+    "gatsby-plugin",
     "plugin",
     "medium",
     "posts"
